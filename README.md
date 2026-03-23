@@ -117,7 +117,6 @@ Every classification includes a mandatory human review notice. The dual-model ar
 
 ## Author
 
-**Ashish Yadav** | Senior Life Sciences Executive | AI Strategy & Governance
-Dual ISO Lead Auditor: ISO 42001 (AI Management Systems) · ISO 13485 (Medical Devices QMS)
-Founder, PrecisionPulse Consulting LLC
-[precisionpulseconsulting.com](https://precisionpulseconsulting.com) · [ashish-yadav.com](https://ashish-yadav.com)
+**Ashish Yadav**  
+AI Strategy & Governance Executive · Life Sciences & Digital Health  
+[precisionpulseconsulting.com](https://precisionpulseconsulting.com) · [ashish-yadav.com](https://ashish-yadav.com) · [LinkedIn](https://linkedin.com/in/ashishyadav-executive)
